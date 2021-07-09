@@ -5,6 +5,17 @@
   top: 0px;
   left: 0px;
 }
+.left-float{
+  float: left;
+  background-color: white;
+  height: 300px;
+  width: 150px;
+  word-wrap: normal;
+  text-align: center;
+}
+.left-float ul{
+  text-align: left;
+}
 img{
   display: block;
   height: 90px;
