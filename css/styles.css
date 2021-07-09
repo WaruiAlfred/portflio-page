@@ -4,6 +4,7 @@
   height: 100%;
   top: 0px;
   left: 0px;
+  right: 0px;
 }
 .left-float{
   float: left;
@@ -26,5 +27,15 @@ img{
   width: 300px;
 }
 h1{
+  text-align: center;
+}
+.middle-section h2 {
+  text-align: center;
+}
+.middle-section h3{
+  text-align: center;
+  font-weight: 300;
+}
+.middle-section p{
   text-align: center;
 }
