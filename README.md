@@ -13,6 +13,8 @@ There are no dependencies required.
 There is no known bug at the moment.
 ## Technologies Used
 I used HTML to add content to the page and CSS to style the page.
-## Link to live site on Github pages
+## Link to live site on github pages
 
-*[LICENSE]*
+### License
+*License under [MIT License](LICENSE)*
+Copyright (c) 2021 **Alfred Warui**
