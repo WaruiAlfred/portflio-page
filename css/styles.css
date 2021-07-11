@@ -8,11 +8,13 @@
 }
 .left-float{
   float: left;
-  background-color: white;
-  height: 300px;
+  background-color: blue;
+  height: 250px;
   width: 150px;
   word-wrap: normal;
   text-align: center;
+  list-style-position: inside;
+  color: white;
 }
 .left-float ul{
   text-align: left;
