@@ -1,10 +1,26 @@
 .top-section{
-  background-color: plum;
-  width: 100%;
-  height: 100%;
-  top: 0px;
-  left: 0px;
-  right: 0px;
+  padding: 10em 0;
+  background-image: url("../images/me2.jpg");
+  background-size: cover;
+  border-top: solid 1em #3363ff;
+  background-repeat: no-repeat;
+  height: 650px;
+}
+.intro{
+  margin-top: 3em;
+  font-family: serif;
+  font-size: 3em;
+  text-align: center;
+  color: #0920f3;
+}
+.heading{
+  color: #6371f1;
+  margin-top: 1em;
+  font-weight: bold;
+  font-size: 4em;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  text-align: center;
 }
 .left-float{
   float: left;
@@ -27,9 +43,6 @@ img{
   display: block;
   height: 90px;
   width: 300px;
-}
-h1{
-  text-align: center;
 }
 .middle-section h2 {
   text-align: center;
