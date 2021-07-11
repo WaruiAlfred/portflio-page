@@ -11,10 +11,8 @@
   font-family: serif;
   font-size: 3em;
   text-align: center;
-  color: #0920f3;
 }
 .heading{
-  color: #6371f1;
   margin-top: 1em;
   font-weight: bold;
   font-size: 4em;
@@ -24,13 +22,12 @@
 }
 .left-float{
   float: left;
-  background-color: blue;
+  background-color: #cffff7;
   height: 250px;
   width: 150px;
   word-wrap: normal;
   text-align: center;
   list-style-position: inside;
-  color: white;
 }
 .left-float ul{
   text-align: left;
@@ -39,10 +36,8 @@
   font-style: italic;
   font-weight: bolder;
 }
-img{
-  display: block;
-  height: 90px;
-  width: 300px;
+.card-title-color{
+  background-color: #9efff0;
 }
 .middle-section h2 {
   text-align: center;
@@ -72,4 +67,5 @@ img{
 }
 .bottom-section{
   text-align: center;
+  background-color: #29ab97;
 }
